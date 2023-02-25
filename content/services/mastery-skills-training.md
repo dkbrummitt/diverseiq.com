@@ -6,85 +6,39 @@ featured: true
 weight: 1
 ---
 
-DiverseIQ offers customized training programs to help employees master the skills needed for their roles. This includes topics like
-
-- communication
-- leadership
-- teamwork
-- problem-solving
-- and more!
-
-**PLACEHOLDER TEXT BELOW**
+When it comes to providing skills training, companies often focus solely on imparting knowledge without considering the importance of instilling confidence in their students. After all, having a mastery of the concepts and skills is crucial, but without the confidence to apply them, that knowledge is wasted.
 
 ![Training Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+So, how can a company provide skills training that ensures students have both the mastery and the confidence to act? Let's dive in and explore some effective strategies.
 
-Financial accounting and financial reporting are often used as synonyms.
+- [Creating a Supportive Learning Environment](#creating-a-supportive-learning-environment)
+- [Tailoring Training to the Needs of Students](#tailoring-training-to-the-needs-of-students)
+- [Providing Opportunities for Practical Application](#providing-opportunities-for-practical-application)
+- [Using Storytelling and Analogies to Enhance Learning](#using-storytelling-and-analogies-to-enhance-learning)
+- [Offering Ongoing Support and Resources](#offering-ongoing-support-and-resources)
+- [Conclusion](#conclusion)
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Creating a Supportive Learning Environment
 
-## Relevance
+First, it's essential to create a supportive learning environment. Learning can be intimidating, especially when students feel like they're being judged or evaluated. To combat this, companies should encourage open communication, active listening, and positive feedback. When students feel comfortable and supported, they're more likely to take risks, ask questions, and ultimately, build their confidence.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Tailoring Training to the Needs of Students
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Next, it's essential to tailor the training to the needs of the students. Every student is unique, with different learning styles, backgrounds, and skill levels. Providing personalized training that meets their specific needs can help them better grasp the material and build their confidence.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Providing Opportunities for Practical Application
 
-## Faithful Representation
+In addition to personalized training, companies should also provide opportunities for students to apply what they've learned in a practical setting. This could involve simulated scenarios, real-world projects, or hands-on experience. By practicing their skills in a safe environment, students can gain confidence and feel more comfortable applying those skills in their day-to-day work.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Using Storytelling and Analogies to Enhance Learning
 
-## Enhancing Qualitative Characteristics
+Another effective strategy is to use storytelling, metaphors, and analogies to help students relate to the material. By framing concepts in a relatable way, students are more likely to engage with the material and feel confident in their ability to understand it.
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## Offering Ongoing Support and Resources
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Finally, it's essential to provide ongoing support and resources beyond the initial training. Follow-up sessions, mentoring, and access to additional learning materials can help students continue to build their skills and confidence over time.
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+## Conclusion
 
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+In conclusion, providing skills training that ensures students have both mastery and confidence requires a multifaceted approach. By creating a supportive learning environment, tailoring training to the needs of students, providing opportunities for practical application, using relatable language, and offering ongoing support, companies can help their students succeed and thrive in their careers.

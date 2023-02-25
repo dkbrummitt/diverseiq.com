@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Course Development",
+    "description": "New clients are onboarded to build training programs centered on their employees.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
@@ -10,8 +10,8 @@
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes and innovations across the tech industry.",
+    "title": "Standardized Programs",
+    "description": "Choose one of our stardardized programs to hit the ground running for your training today!",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
