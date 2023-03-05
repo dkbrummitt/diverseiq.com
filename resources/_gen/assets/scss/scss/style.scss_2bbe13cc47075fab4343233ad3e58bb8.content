@@ -101,11 +101,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #0487D9;
+  color: #F08877;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #03588e;
+    color: #e84c32;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -4013,7 +4013,7 @@ html {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 36px;
     height: 3px;
-    background-color: #0487D9;
+    background-color: #F08877;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -4049,7 +4049,7 @@ html {
     transform: translate3d(0, -20px, 0) rotate(-90deg); }
 
 a {
-  color: #0487D9; }
+  color: #F08877; }
 
 p {
   line-height: 26px;
@@ -4099,12 +4099,12 @@ ol {
     flex: 1 0 0; }
 
 .header {
-  color: #0487D9;
+  color: #F08877;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid #f6f7ff;
+  border-bottom: 1px solid #FEF8F7;
   padding: 10px 0px; }
   .header .container {
     display: flex;
@@ -4119,7 +4119,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #0487D9;
+  background: #F08877;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4176,7 +4176,7 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #0368a7;
+  background: #eb6049;
   color: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px; }
@@ -4237,7 +4237,7 @@ ol {
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: #0487D9; }
+        color: #F08877; }
         .main-menu > ul > li > a:hover {
           text-decoration: underline; }
       .main-menu > ul > li.active > a {
@@ -4249,7 +4249,7 @@ ol {
 
 .main-menu-mobile {
   position: fixed;
-  background: #0487D9;
+  background: #F08877;
   top: 0;
   left: 0;
   width: 100%;
@@ -4329,7 +4329,7 @@ ol {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #0487D9; }
+    background: #F08877; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -4343,7 +4343,7 @@ ol {
   height: 40px;
   line-height: 40px;
   padding: 0 14px;
-  background: #0487D9;
+  background: #F08877;
   border-radius: 4px;
   font-size: 14px;
   font-weight: normal;
@@ -4355,14 +4355,14 @@ ol {
   transition: all 0.15s ease; }
   .button:hover {
     color: #ffffff;
-    background-color: #15a2fb;
+    background-color: #f5b0a5;
     transform: translateY(-1px);
     text-decoration: none; }
 
 .call {
   position: relative;
   overflow: hidden;
-  background-color: #f6f7ff;
+  background-color: #FEF8F7;
   border-radius: 4px;
   width: 100%;
   display: flex;
@@ -4381,7 +4381,7 @@ ol {
   .call .call-box-bottom {
     flex: auto;
     padding: 20px;
-    border-top: 1px solid #dde0ff; }
+    border-top: 1px solid #fbe4e0; }
     @media (min-width: 576px) {
       .call .call-box-bottom {
         flex: 0 0 auto;
@@ -4394,7 +4394,7 @@ ol {
   .call strong {
     font-weight: bold; }
   .call svg {
-    fill: #acdefd;
+    fill: white;
     position: absolute;
     bottom: -9px;
     right: 0;
@@ -4476,7 +4476,7 @@ ol {
 
 .content hr {
   border: none;
-  border-bottom: 1px solid #f6f7ff; }
+  border-bottom: 1px solid #FEF8F7; }
 
 .content table {
   width: 100%;
@@ -4486,19 +4486,19 @@ ol {
   .content table td {
     padding: 5px;
     vertical-align: top;
-    border-top: 1px solid #f6f7ff; }
+    border-top: 1px solid #FEF8F7; }
   .content table thead th {
     vertical-align: bottom;
-    border-bottom: 1px solid #f6f7ff;
+    border-bottom: 1px solid #FEF8F7;
     text-align: left;
     font-weight: bold; }
   .content table tbody + tbody {
-    border-top: 1px solid #f6f7ff; }
+    border-top: 1px solid #FEF8F7; }
 
 .content blockquote {
   padding: 0 1em;
   color: #5C5A5A;
-  border-left: 0.25em solid #0487D9; }
+  border-left: 0.25em solid #F08877; }
 
 .intro {
   display: flex;
@@ -4580,7 +4580,7 @@ ol {
   background-color: white; }
 
 .strip-grey {
-  background-color: #f6f7ff; }
+  background-color: #FEF8F7; }
 
 .strip-diagonal {
   transform: skewY(5deg);
@@ -4590,7 +4590,7 @@ ol {
     transform: skewY(-5deg); }
 
 .strip-primary {
-  background-color: #0487D9; }
+  background-color: #F08877; }
 
 .strip-diagonal-right {
   margin-top: -100px;
@@ -4614,7 +4614,7 @@ ol {
 
 .feature {
   height: 100%;
-  border: 1px solid #f6f7ff;
+  border: 1px solid #FEF8F7;
   border-radius: 3px;
   padding: 20px;
   background-color: #ffffff;
@@ -4677,7 +4677,7 @@ ol {
     flex: 1 0 100%; }
 
 .team-summary-large {
-  background-color: #f6f7ff;
+  background-color: #FEF8F7;
   padding: 30px;
   border-radius: 3px; }
   .team-summary-large .team-image {

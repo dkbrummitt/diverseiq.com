@@ -8,12 +8,12 @@ Twitterhandle: 'dkbrummitt'
 draft: false
 weight: 100
 promoted: true
-summary: Meet Delicia Brummitt, the tech expert behind DiverseIQ, a cutting-edge professional training SAAS platform. With 15+ years of experience in software development and engineering, she's architected and maintained revenue-generating applications that consistently make $78+M USD annually. Now, she's on a mission to empower individuals and organizations with DiverseIQ. Ready to level up your tech skills? Look no further than Delicia.
+summary: Meet Delicia Brummitt, the tech expert behind DiversifyIQ, a cutting-edge professional training SAAS platform. With 15+ years of experience in software development and engineering, she's architected and maintained revenue-generating applications that consistently make $78+M USD annually. Now, she's on a mission to empower individuals and organizations with DiversifyIQ. Ready to level up your tech skills? Look no further than Delicia.
 ---
 
-# The Tech Expert Driving Change: Delicia Brummitt's Journey to Building DiverseIQ
+# The Tech Expert Driving Change: Delicia Brummitt's Journey to Building DiversifyIQ
 
-Are you looking to level up your skills in the tech industry? Meet Delicia Brummitt, the brilliant mind behind DiverseIQ, a cutting-edge professional training SAAS platform. Delicia has over 15 years of experience in software development and engineering, making her a seasoned expert in the field.
+Are you looking to level up your skills in the tech industry? Meet Delicia Brummitt, the brilliant mind behind DiversifyIQ, a cutting-edge professional training SAAS platform. Delicia has over 15 years of experience in software development and engineering, making her a seasoned expert in the field.
 
 ## From Small Startups to Fortune 50 Companies
 
@@ -27,12 +27,12 @@ Delicia's expertise extends to programming languages such as Golang, Java, Javas
 
 Delicia's impressive professional accomplishments include designing, building, and maintaining revenue-generating applications that consistently made $78+M USD annually. She also designed a billing reporting system that saved time for the development department. Delicia's technical prowess led her to speak at ConnectTech technical conference, cementing her reputation as an expert in her field.
 
-## Inspiring Change with DiverseIQ
+## Inspiring Change with DiversifyIQ
 
-Delicia's passion for effective technology use led her to create DiverseIQ, a platform that addresses the need for professional training in the tech industry. With DiverseIQ, Delicia aims to empower individuals and organizations to develop and enhance their skills in the ever-changing tech landscape.
+Delicia's passion for effective technology use led her to create DiversifyIQ, a platform that addresses the need for professional training in the tech industry. With DiversifyIQ, Delicia aims to empower individuals and organizations to develop and enhance their skills in the ever-changing tech landscape.
 
 ## Hear it From Others
 
 People who have worked with Delicia praise her ability to inspire and lead. As one colleague said, "She pushes me to where I want to be." Others have noted that having Delicia's voice in the room is a relief and that it's refreshing to work with her.
 
-If you're looking to level up your tech skills or empower your organization, look no further than Delicia Brummitt and DiverseIQ.
+If you're looking to level up your tech skills or empower your organization, look no further than Delicia Brummitt and DiversifyIQ.

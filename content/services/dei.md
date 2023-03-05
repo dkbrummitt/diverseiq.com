@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-DiverseIQ works with companies to help build a more diverse and inclusive workplace culture. This involves
+DiversifyIQ works with companies to help build a more diverse and inclusive workplace culture. This involves
 
 1. assessing current diversity initiatives
 2. providing training on unconscious bias
