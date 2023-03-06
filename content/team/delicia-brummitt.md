@@ -1,7 +1,7 @@
 ---
 title: "Delicia Brummitt"
 date: 2023-02-26T14:51:42-05:00
-image: "images/team/default.png"
+image: "images/team/delicia.png"
 jobtitle: "CTO, Digital Dreamweaver"
 linkedinurl: 'https://www.linkedin.com/'
 Twitterhandle: 'dkbrummitt'
